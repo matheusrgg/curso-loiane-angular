@@ -1,0 +1,32 @@
+{
+  "cursos": [
+    {
+      "id": 1,
+      "nome": "Angular"
+    },
+    {
+      "nome": "Next",
+      "id": 2
+    },
+    {
+      "nome": "Node",
+      "id": 3
+    },
+    {
+      "nome": "pop melhor",
+      "id": 4
+    },
+    {
+      "nome": "Location",
+      "id": 5
+    },
+    {
+      "id": 6,
+      "nome": "Resolver55"
+    },
+    {
+      "id": 7,
+      "nome": "Nem funciona 44"
+    }
+  ]
+}
